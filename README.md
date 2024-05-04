@@ -2,7 +2,9 @@
 
 ### My Mission
 
-[I'm developing a comprehensive open-source software suite for non-profit grocery stores. This suite aims to combat the exploitative practices of large grocery corporations and empower communities to create fairer food distribution models.](https://necessities.systems/)
+[I'm developing a comprehensive, open-source software suite for non-profit grocery stores.
+
+This suite aims to combat the exploitative practices of large grocery corporations and empower communities to create fairer food distribution models.](https://necessities.systems/)
 
 ### Skills
 
@@ -12,7 +14,7 @@
 
 📈Data Viz: Streamlit, Tableau
 
-🎯Focus Areas: Inventory Management, Point-of-Sale (POS) Systems, HR Tools, Business Administration Modules.
+🎯Focus Areas: Inventory Management, Point-of-Sale (POS) Systems, HR Tools, Business Administration Modules, learning.
 
 ### How Can I Help?
 
