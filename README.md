@@ -12,7 +12,7 @@
 
 📈Data Viz: Streamlit, Tableau
 
-🎯Focus Areas: Inventory Management, Point-of-Sale (POS) Systems, HR Tools, Business Administration Modules, learning.
+🎯Focus Areas: Inventory Management, Point-of-Sale (POS) Systems, Property Management Systems (PMS), HR Tools, Business Administration Modules, learning.
 
 ### How Can I Help?
 
